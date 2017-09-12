@@ -1,0 +1,25 @@
+{
+  "name": "taoyag.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taoyag/taoyag.github.io.git"
+  },
+  "author": "taoyag",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/taoyag/taoyag.github.io/issues"
+  },
+  "homepage": "https://github.com/taoyag/taoyag.github.io#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^4.0.0",
+    "gulp-plumber": "^1.1.0",
+    "gulp-sass": "^3.1.0"
+  }
+}
